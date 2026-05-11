@@ -1,0 +1,7 @@
+{
+    "target_url": "https://example.com/data-page",
+    "headless_mode": true,
+    "timeout_seconds": 30,
+    "output_format": "csv",
+    "output_filename": "extracted_data.csv"
+}
