@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# Output Data (Kyunki hum scraped data git par push nahi karte)
+*.csv
+*.json
+*.xlsx
+
+# OS generated files
+.DS_Store
